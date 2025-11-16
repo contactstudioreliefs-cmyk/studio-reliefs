@@ -869,8 +869,8 @@ h2 {
     max-width: 100%; /* le texte peut occuper toute la largeur */
   }
   p, h1, h2, a {
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
   }
 }
 
