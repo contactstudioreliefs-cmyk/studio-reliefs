@@ -848,6 +848,8 @@ h2 {
   .presentation,
   .mentions-legales {
         margin-left: 0; /* le contenu reprend toute la largeur */
+        padding-left: 20px;
+        padding-right: 20px;
   }
   .intro {
         margin-top: 0px; /* le contenu reprend toute la largeur */
