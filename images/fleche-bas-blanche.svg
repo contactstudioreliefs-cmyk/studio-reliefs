@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Calque_2" xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 130.8 130.8">
+  <!-- Generator: Adobe Illustrator 29.8.2, SVG Export Plug-In . SVG Version: 2.1.1 Build 3)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 8px;
+      }
+    </style>
+  </defs>
+  <g id="OBJECTS">
+    <path class="st0" d="M126.8,65.4c0,33.9-27.5,61.4-61.4,61.4S4,99.3,4,65.4,31.5,4,65.4,4s61.4,27.5,61.4,61.4h0Z"/>
+    <polyline class="st0" points="97.9 68 67.4 98.5 36.4 67.4"/>
+    <line class="st0" x1="67.4" y1="98.5" x2="67.4" y2="35.7"/>
+  </g>
+</svg>
