@@ -478,6 +478,7 @@ h2 {
   .all-projets {
   margin-left: 20px;
   margin-right: 20px;
+  text-align: center;
   }
 }
 
@@ -857,7 +858,10 @@ h2 {
   .intro-apropos,
   .presentation,
   .mentions-legales {
-        margin-left: 0; /* le contenu reprend toute la largeur */
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    margin-left: 0 !important;
+    margin-right: 0 !important;
   }
   .intro {
         margin-top: 0px; /* le contenu reprend toute la largeur */
@@ -867,10 +871,6 @@ h2 {
   }
   .text-limite {
     max-width: 100%; /* le texte peut occuper toute la largeur */
-  }
-  p, h1, h2, a {
-        margin-left: 0px;
-        margin-right: 0px;
   }
 }
 
