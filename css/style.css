@@ -76,8 +76,8 @@ h3 { font-size: 1.25rem; } /* ~20px */
 .text-base-mono { font-family: 'SpaceMono-BoldItalic'; font-size: 1.3rem; }
 .text-L  { font-size: 2.3rem; line-height: 1.3; margin-top: 0; }    /* 50px */
 .text-xl  { font-size: clamp(2.2rem, 4.2vw, 4.2rem); line-height: 1.4; margin-top: 0; }    /* 50px */
-.text-mono  { font-family: 'SpaceMono-BoldItalic'; font-weight: 700; font-size: clamp(2.7rem, 5.2vw, 5.2rem); line-height: 1.1;}    /* 50px */
-.titre-mono-gros { font-family: 'SpaceMono-BoldItalic'; font-weight: 700; font-size: clamp(2.7rem, 4vw, 4rem); line-height: 1.1;}
+.text-mono  { font-family: 'SpaceMono-BoldItalic'; font-weight: 700; font-size: clamp(2rem, 5.2vw, 5.2rem); line-height: 1.1;}    /* 50px */
+.titre-mono-gros { font-family: 'SpaceMono-BoldItalic'; font-weight: 700; font-size: clamp(2rem, 4vw, 4rem); line-height: 1.1;}
 .titre-mono-xxl { font-family: 'SpaceMono-BoldItalic'; font-weight: 700; font-size: 5rem; line-height: 1.1;}
 .chiffre-mono  { font-family: 'Spacemono-Bold'; font-weight: 700;font-size: 1.875rem; }    /* 50px */
 .text-btn-menu { font-family: 'Spacemono-Bold'; font-weight: 700;font-size: 1rem; }
@@ -466,8 +466,8 @@ h2 {
     gap: 60px;
   }
   .all-projets {
-  margin-left: 40px;
-  margin-right: 40px;
+  margin-left: 20px;
+  margin-right: 20px;
   }
 }
 
@@ -857,6 +857,10 @@ h2 {
   }
   .text-limite {
     max-width: 100%; /* le texte peut occuper toute la largeur */
+  }
+  p, h1, h2, a {
+        margin-left: 20px;
+        margin-right: 20px;
   }
 }
 
