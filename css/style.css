@@ -465,6 +465,10 @@ h2 {
     flex-direction: column;
     gap: 60px;
   }
+  .all-projets {
+  margin-left: 40px;
+  margin-right: 40px;
+  }
 }
 
 /* Bloc Raison d'être */
